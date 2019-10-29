@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">testirebaApp</string>
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">2+2</string>
+    <string name="question_2">A slug\'s blood is green.</string>
+    <string name="question_3">Khmaladze is extremly fat</string>
+    <string name="question_4">Aliens have visited the earth multiple times</string>
+    <string name="question_5">There are approximately more than 500 genders</string>
+    <string name="question_6">Ratom ese uxeshad?</string>
+    <string name="question_7">It is illegal to pee in the Ocean in Portugal.</string>
+
+    <string name="answer_1_1">5</string>
+    <string name="answer_1_2">4</string>
+    <string name="answer_2_1">Yes</string>
+    <string name="answer_2_2">No</string>
+    <string name="answer_3_1">Yes</string>
+    <string name="answer_3_2">No</string>
+    <string name="answer_4_1">Yes</string>
+    <string name="answer_4_2">No</string>
+    <string name="answer_5_1">True</string>
+    <string name="answer_5_2">False</string>
+    <string name="answer_6_1">Imitom</string>
+    <string name="answer_6_2">Ese ar sheidzleba</string>
+    <string name="answer_7_1">True</string>
+    <string name="answer_7_2">False</string>
+    <string name="title_activity_new">newActivity</string>
+</resources>
